@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pramod Sable
-- 👀 I’m interested in Data Science and Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python based Data Science and Engineering projects
+- 👀 I’m interested in Programming and Data Science.
+- 🌱 I’m currently learning problem solving algorithms.
+- 💞️ I’m looking to collaborate on python based Data Science and Software Engineering projects.
 - 📫 pramodsable6@gmail.com
 
 <!---
