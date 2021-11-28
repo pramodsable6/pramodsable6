@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pramod Sable
-- 👀 I’m interested in Programming and Data Science.
-- 🌱 I’m currently learning problem solving algorithms.
+- 👀 I’m interested in Software Engineering, Data Science, Analytics, AWS Cloud Services.
+- 🌱 I’m currently learning problem solving Algorithms, Data Structures and AWS services.
 - 💞️ I’m looking to collaborate on python based Data Science and Software Engineering projects.
 - 📫 pramodsable6@gmail.com
 
