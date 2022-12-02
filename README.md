@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pramod Sable
-- 👀 I’m interested in Data Engineering, Data Science, Analytics, AWS Cloud Services, etc.
+- 👀 I’m exploring Big data, Backend Engineering, ML, etc.
 - 🌱 I’m currently learning Problem Solving Algorithms, Data Structures and AWS Services.
-- 💞️ I’m looking to collaborate on python/Java based Data Science and Data Engineering projects.
+- 💞️ I’m looking to collaborate on python / Java based projects.
 - 📫 pramodsable6@gmail.com
 
 <!---
